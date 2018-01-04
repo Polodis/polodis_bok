@@ -1,5 +1,5 @@
 # Dynamic Command and Control
-In a recent [presentation](https://medium.com/r/?url=https%3A%2F%2Fwww.infoq.com%2Fpresentations%2F3-laws-business-agility), Steve Denning uses the visual of a pyramid to represent the level of command and control within an organization. He correctly asserts that Agile organizations still operate under the principles of command and control, but with the goal of moving decision making into semi-autonomous teams as much as possible. The aspiration is to follow the Goldilocks rule — not too little, not too much → just right. This is called Mission Command and is central to military doctrine. We’ll discuss more about that later.
+In a recent [presentation](https://www.infoq.com/presentations/3-laws-business-agility), Steve Denning uses the visual of a pyramid to represent the level of command and control within an organization. He correctly asserts that Agile organizations still operate under the principles of command and control, but with the goal of moving decision making into semi-autonomous teams as much as possible. The aspiration is to follow the Goldilocks rule — not too little, not too much → just right. This is called Mission Command and is central to military doctrine. We’ll discuss more about that later.
 
 ![image](authority-autonomy.png "Authority vs. Autonomy")
 
